@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/coverage
+/test/coverage
+.idea/
+.DS_Store
+.npmignore
+/test/e2e/screenshots

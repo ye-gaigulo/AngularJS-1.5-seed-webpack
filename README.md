@@ -10,13 +10,12 @@ This AngularJS starter project comes with Mobx and RxJS to satisfy all reactive 
 
 ### Setup Dependencies
   1. [npm](https://nodejs.org)
-  1. [jspm](http://jspm.io/)
 
 ### Getting Started
     $ npm install
-    $ jspm install
 
-### Gulp Tasks
-    $ gulp build
-    $ gulp serve:dev
-    $ gulp serve:dist
+### npm Tasks
+    $ npm build
+    $ npm start
+
+ 

@@ -16,4 +16,3 @@ ratings:
 exclude_paths:
 - test/
 - webpack.config.js
-- src/config.js
